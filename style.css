@@ -1,0 +1,148 @@
+.a{
+    background-image:url(food2.jpeg);
+    height: 500px;
+    width: 1500px;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color:darkmagenta;
+    border-width: 5px;
+    text-align: center;
+   }
+   .b{
+    text-align: center;
+    background-color: moccasin;
+    height: 150px;
+    width: 1500px;
+    padding-top: 5px;
+    margin: 5px;
+     border-style: dashed;
+    border-color:deeppink;
+    border-width: 5px;
+    h2{
+        text-align:center;
+    }
+    
+   }
+   .c{
+    background-image: url(food.jpeg);
+    height: 500px;
+    width: 1500px;
+    padding: 5px;
+    margin: 5px;
+    border-style:solid;
+    border-color:darkmagenta;
+    border-width: 5px;
+    text-align:end;
+
+   }
+   .d{
+    text-align: center;
+    color:white;
+    background-color:mediumseagreen;
+    height: 120px;
+    width:1500px;
+    padding-left:5px;
+    margin:5px;
+    border-width: 5px;
+    border-style:solid;
+    border-color: midnightblue;
+h2{
+        text-align: center;
+        
+    }
+   }
+
+   .e{
+    background-color:hotpink;
+    color:indigo;
+    height: 200px;
+    width:300px;
+    h2{text-align: center;}
+    display: inline-block;
+    padding: 5px;
+     margin: 35px;
+     h2:hover{color:white} 
+     }
+     
+    
+    .f{
+         background-color:hotpink;
+    color: indigo;
+    height: 200px;
+    width:300px;
+    h2{text-align: center;}
+    display: inline-block;
+    padding: 5px;
+     margin: 35px;
+     h2:hover{color:white} 
+     }
+
+     .g{
+         background-color:hotpink;
+    color:indigo;
+    height: 200px;
+    width:300px;
+    h2{text-align: center;}
+    display: inline-block;
+    padding: 5px;
+     margin: 35px;
+      h2:hover{color:white;}
+     }
+
+     .h{
+         background-color: hotpink;
+    color:indigo;
+    height: 200px;
+    width:300px;
+    h2{text-align: center;}
+    display: inline-block;
+    padding: 5px;
+     margin: 35px;
+     h2:hover{color:white;} 
+     }
+
+      .i{
+         background-color:hotpink;
+    color: indigo;
+    height: 200px;
+    width:300px;
+    h2{text-align: center;}
+    display: inline-block;
+    padding: 5px;
+     margin: 35px;
+     h2:hover{
+        color:white;
+     }
+     }
+
+     .j{
+        display:inline-block;
+
+     }
+
+     .about{
+        background-color: black;
+        color:bisque;
+        width: 1000px;
+        height: 450px;
+        margin:250px;
+        
+       h2,h3{
+            text-align:start;
+            text-indent:15px;
+            
+        }
+
+     }
+
+     
+    
+   
+
+   
+   
+
+
+   
+  
